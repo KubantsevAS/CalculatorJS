@@ -1,0 +1,22 @@
+{
+  "name": "calculator_js",
+  "version": "1.0.0",
+  "description": "Calculator_App",
+  "main": "index.js",
+  "author": "KubantsevAS",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "3.0.0"
+  }
+}
